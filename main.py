@@ -1,3 +1,4 @@
+#NOTE: equations used are simplifications of true equations. They still convey the general principles underlying particle dynamics
 #be cool to add a temperature gradient and have heat transfer with this
 
 import math
