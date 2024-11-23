@@ -35,6 +35,10 @@ class mixparticle:
     self.prevY=a
 
   def particleInteractions(self, otherParticles):
+    
+    #NOTE: Collision mechanics are not perfect yet because I am still learning how to solve the system of differential equations in 3 dimensional space.
+    #NOTE: I will be imlementing more precise particle attraction and repulsion with the Lennard-Jones Potential.
+    
     #print("For Particle Interactions"+str(otherParticles)+"\n")
     netForceX=0
     netForceY=0
