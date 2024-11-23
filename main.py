@@ -1,7 +1,7 @@
 #NOTE: equations used are simplifications of true equations. They still convey the general principles underlying particle dynamics
 #be cool to add a temperature gradient and have heat transfer with this
 
-#Furthermore, units are arbitrary, as the simulation is not precise enough for units to be sensical. The simulation is intended to demonstrate the fact that certain macroscopic properties emerge from fundamental mechanical principles.
+#Furthermore, units are arbitrary, as the simulation is not precise enough for units to be sensical. The simulation is intended to demonstrate the fact that certain macroscopic properties emerge from fundamental mechanical principles. not to perfectly follow reality (no simulation perfectly follows reality, but they are still useful).
 
 import math
 import random
